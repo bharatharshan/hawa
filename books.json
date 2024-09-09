@@ -1,0 +1,47 @@
+[
+  {
+    "title": "The Great Adventure",
+    "author": "John Doe",
+    "year": 2020
+  },
+  {
+    "title": "Mystery of the Lost City",
+    "author": "Jane Smith",
+    "year": 2018
+  },
+  {
+    "title": "The Last Voyage",
+    "author": "Alex Johnson",
+    "year": 2019
+  },
+  {
+    "title": "The Story of A Boy",
+    "author": "Bharat Harshan",
+    "year": 2023
+  },
+  {
+    "title": "Echoes of the Past",
+    "author": "Lily Evans",
+    "year": 2017
+  },
+  {
+    "title": "Beneath the Crimson Sky",
+    "author": "Robert Lang",
+    "year": 2021
+  },
+  {
+    "title": "The Silent Observer",
+    "author": "Emily Carter",
+    "year": 2022
+  },
+  {
+    "title": "Whispers in the Dark",
+    "author": "David White",
+    "year": 2016
+  },
+  {
+    "title": "Journey to the Unknown",
+    "author": "Sophia Green",
+    "year": 2023
+  }
+]
